@@ -1,0 +1,37 @@
+# Site settings
+title: Public Comments Received on PIV Guidelines
+description: "Public Comments Received on PIV Guidelines"
+baseurl: "/PIV-Public-Comments" # the subpath of your site, e.g. /blog
+url: "https://pages.nist.gov/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+- BUILD.md
+- "*.yml"
+- "*/images/*.pdf"
+
+# GitHub information
+org_name: usnistgov
+repo_name: PIV-Public-Comments
+
+
+host: 0.0.0.0
+
+collections:
+
+relative_links:
+  enabled:     true
+  collections: true
+
