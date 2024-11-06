@@ -8,7 +8,7 @@ description: "Public Comments Received on PIV Guidelines"
 <div class="text-center" markdown="1">
 ## Public Comments Received on PIV Guidelines
 
-#### November 14, 2024
+#### Last Updated: November 14, 2024
 <br>
 </div>
 </section>
@@ -20,9 +20,22 @@ The following lists public comments received on the initial public draft of [Spe
 
 <div class="section-container comment-list" markdown="1">
 
-- CommenterA [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/file1.pdf)
-- CommenterB [(email)](SP-800-157r1-ipd/comments/email/file2.pdf)
-- CommenterC [(pdf)](SP-800-157r1-ipd/comments/pdf/file3.pdf)
+- ATRAC [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_ATRAC.pdf)   
+- Axiad IDS [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_AXIAD.pdf)
+- Certipath [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_CertiPath.pdf)
+- Department of Defense Manpower Data Center [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_DMDC.pdf)
+- Department of Energy [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1-DOE.pdf)
+- Department of Education [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_Education.pdf) 
+- Department of Veterans Affairs [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_VA.pdf) 
+- Electrosoft and SynchroCyber [(email)](SP-800-157r1-ipd/comments/email/157r1_electrosoft_email.pdf)[(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_%20ESI%20and%20SynchroCyber.pdf)
+- FPKIMA [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_fpkima.pdf)
+- Idemia [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_Idemia.pdf)
+- IEEE SA [(pdf)](SP-800-157r1-ipd/comments/pdf/157r1_217_combined_IEEE.pdf)   
+- Intercede [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_Intercede.pdf)
+- Kaiser Permanente [(pdf)](SP-800-157r1-ipd/comments/pdf/157r1_217_combined_KP.pdf)
+- Elaine Barker (NIST) [(email)](SP-800-157r1-ipd/comments/email/157r1_Barker.pdf)
+- Secure Technology Alliance [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_STA.pdf)
+- Security Industry Association [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_SIA.pdf)
 
 </div>
 </section>
@@ -39,9 +52,18 @@ The following lists public comments received on the initial public draft of [Spe
 
 <div class="section-container comment-list" markdown="1">
 
-- CommenterA [(template submission)](SP-800-217-ipd/comments/spreadsheet/file1.pdf)
-- CommenterB [(email)](SP-800-217-ipd/comments/email/file2.pdf)
-- CommenterC [(pdf)](SP-800-217-ipd/comments/pdf/file3.pdf)
+- ATRAC [(pdf)](SP-800-217-ipd/comments/pdf/217_Atarc.pdf)
+- Axiad IDS [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_AXIAD.pdf)
+- Certipath [(template submission](SP-800-217-ipd/comments/spreadsheet/217_CertiPath.pdf)
+- Department of Defense Manpower Data Center [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_DMDC.pdf)
+- Department of Energy [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_DOE.pdf)
+- Department of Education [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_Education.pdf)
+- FPKIMA [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_fpkima.pdf)
+- IEEE SA [(pdf)](SP-800-217-ipd/comments/pdf/157r1_217_combined_IEEE.pdf) 
+- Kaiser Permanente [(pdf)](SP-800-217-ipd/comments/pdf/157r1_217_combined_KP.pdf)
+- Okta [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_Okta.pdf)
+- OMB MAX.gov [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_OMB_MAX.pdf)
+- Elaine Barker (NIST) [(email)](SP-800-217-ipd/comments/email/217_Barker.pdf)
 
 </div>
 
