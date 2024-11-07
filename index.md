@@ -54,7 +54,7 @@ The following lists public comments received on the initial public draft of [Spe
 
 - ATRAC [(pdf)](SP-800-217-ipd/comments/pdf/217_Atarc.pdf)
 - Axiad IDS [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_AXIAD.pdf)
-- Certipath [(template submission](SP-800-217-ipd/comments/spreadsheet/217_CertiPath.pdf)
+- Certipath [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_CertiPath.pdf)
 - Department of Defense Manpower Data Center [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_DMDC.pdf)
 - Department of Energy [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_DOE.pdf)
 - Department of Education [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_Education.pdf)
