@@ -6,15 +6,53 @@ description: "Public Comments Received on PIV Guidelines"
 <section class="home home-title" markdown="1">
 
 <div class="text-center" markdown="1">
+  
 ## Public Comments Received on PIV Guidelines
 
-#### Last Updated: November 14, 2024
+#### Last Updated: January 23, 2025
 <br>
 </div>
 </section>
 
 <section class="home home-about" markdown="1">
-### NIST SP 800-157r1 ipd
+  
+### NIST SP 800-157r1 fpd
+
+The following lists public comments received on the final public draft of [Special Publication (SP) 800-157r1fpd, Guidelines for Derived Personal Identity Verification (PIV) Credentials](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-157r1.fpd.pdf).
+
+<div class="section-container comment-list" markdown="1">
+
+- Certipath [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_FPD_CertiPath.pdf)
+- RSA [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_FPD_RSA.pdf)   
+- Department of State [(template submission)](SP-800-157r1-ipd/comments/spreadsheet/157r1_FPD_State.pdf)
+
+  </div>
+</section>
+
+<br>
+
+<br>
+
+<section class="home home-about" markdown="1">
+### NIST SP 800-217 fpd
+
+The following lists public comments received on the final public draft of [Special Publication (SP) 800-217fpd, Guidelines for the Use of Personal Identity Verification (PIV) Credentials with Federation](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-217.fpd.pdf).
+
+<div class="section-container comment-list" markdown="1">
+
+- Certipath [(template submission)](SP-800-217-ipd/comments/spreadsheet/217_FPD_CertiPath.pdf)
+
+</div>
+
+</section>
+
+<br>
+
+<br>
+
+<section class="home home-about" markdown="1">
+  
+ ### NIST SP 800-157r1 ipd
 
 The following lists public comments received on the initial public draft of [Special Publication (SP) 800-157r1, Guidelines for Derived Personal Identity Verification (PIV) Credentials](https://pages.nist.gov/800-157r1/).
 
@@ -46,6 +84,7 @@ The following lists public comments received on the initial public draft of [Spe
 
 
 <section class="home home-about" markdown="1">
+  
 ### NIST SP 800-217 ipd
 
 The following lists public comments received on the initial public draft of [Special Publication (SP) 800-217ipd, Guidelines for the Use of Personal Identity Verification (PIV) Credentials with Federation](https://pages.nist.gov/800-217/).
